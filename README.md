@@ -1,3 +1,4 @@
 # Hulu-App
-Hulu App Clone
+Hulu App Clone.
+<br>
 Thanks To Brad Traversy
